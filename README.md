@@ -15,7 +15,7 @@ A modular, provider-agnostic, and stateless Voice Intelligence library featuring
 
 ```markdown
 # Voice Intelligence Engine (Module 2)
-**Creator: [Pratik Raj](https://github.com/yourusername)**
+**Creator: [Pratik Raj] (https://github.com/rajpratik144/voice_engine.git)**
 
 The Voice Intelligence (VI) Engine is a high-performance, stateless, and provider-agnostic Python library designed to act as the "Ear" and "Mouth" for AI systems. Built with a modular architecture, it allows for seamless integration with RAG engines, LLM services, or any logic layer via Dependency Injection.
 

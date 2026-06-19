@@ -1,5 +1,3 @@
-This is the professional **README.md** and repository metadata tailored for your **Voice Intelligence Engine**. It is written from the perspective of an AI Architect, emphasizing modularity, performance, and the provider-agnostic nature of the system.
-
 ---
 
 ### **GitHub Repository Metadata**
@@ -136,22 +134,3 @@ This ensures the user hears the first sentence while the LLM is still generating
 - **Statelessness:** The library stores no conversation history, ensuring lightweight deployment and privacy.
 - **Parallel Processing:** TTS synthesis and Audio playback run in parallel tasks.
 - **Hardware Abstraction:** All audio playback is isolated to system-level subprocesses to prevent Python's Global Interpreter Lock (GIL) from causing audio stutters.
-
----
-
-## 📄 License
-MIT License. Created and maintained by **Pratik Raj**.
-```
-
-### Final Instructions for you:
-1. Copy the **README.md** code block.
-2. Go to your `voice_engine` folder and overwrite your current `README.md`.
-3. Push to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Docs: Updated README with architectural details and standalone example"
-   git push origin main
-   ```
-4. On your GitHub Repo page, click the **Settings icon** (cog) next to the "About" section and paste the **Description** and **Tags** provided at the top.
-
-**Congratulations! You now have a world-class AI repository portfolio.**

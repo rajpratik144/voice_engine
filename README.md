@@ -141,4 +141,3 @@ This ensures the user hears the first sentence while the LLM is still generating
 ## 📄 License
 MIT License. Created and maintained by **Pratik Raj**.
 
-**Congratulations! You now have a world-class AI repository portfolio.**

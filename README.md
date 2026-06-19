@@ -1,3 +1,4 @@
+
 ---
 
 ### **GitHub Repository Metadata**
@@ -134,3 +135,10 @@ This ensures the user hears the first sentence while the LLM is still generating
 - **Statelessness:** The library stores no conversation history, ensuring lightweight deployment and privacy.
 - **Parallel Processing:** TTS synthesis and Audio playback run in parallel tasks.
 - **Hardware Abstraction:** All audio playback is isolated to system-level subprocesses to prevent Python's Global Interpreter Lock (GIL) from causing audio stutters.
+
+---
+
+## 📄 License
+MIT License. Created and maintained by **Pratik Raj**.
+
+**Congratulations! You now have a world-class AI repository portfolio.**

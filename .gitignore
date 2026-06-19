@@ -1,0 +1,12 @@
+venv/
+voice/
+__pycache__/
+*.pyc
+.env
+temp_audio/
+*.mp3
+*.wav
+.DS_Store
+voice_engine.egg-info/
+dist/
+build/

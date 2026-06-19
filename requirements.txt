@@ -1,0 +1,19 @@
+# Audio Hardware Interface
+pyaudio
+
+# The "Mouth" (Free Neural TTS)
+edge-tts
+
+# The "Ear" (High-speed Free STT)
+groq
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+
+# Utilities
+python-dotenv
+aiohttp
+
+pygame

@@ -47,10 +47,10 @@ To ensure low-latency audio playback without CPU strain, this system utilizes th
 
 ## 📦 Installation
 
-Install the library directly from GitHub into your virtual environment:
+Install the library directly from GitHub into your virtual environment by adding it in the requirements.txt file:
 
 ```bash
-pip install git+https://github.com/<YOUR_GITHUB_USERNAME>/voice_engine.git
+voice_engine @ git+https://github.com/rajpratik144/voice_engine.git
 ```
 
 ---

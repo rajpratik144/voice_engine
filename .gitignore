@@ -1,12 +1,43 @@
-venv/
+# --- Virtual Environments ---
+# Your specific folder is named 'voice'
 voice/
-__pycache__/
-*.pyc
+venv/
+env/
 .env
+
+# --- Python Caches & Compiled Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Build & Distribution ---
+# Auto-generated when installing or packaging
+dist/
+build/
+*.egg-info/
+egg-info/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# --- Audio Temporary Files ---
+# This ensures your recorded voice/AI voice stays off the internet
 temp_audio/
 *.mp3
 *.wav
+*.wav.tmp
+user_input.wav
+
+# --- OS Specific ---
+# Mac specific junk
 .DS_Store
-voice_engine.egg-info/
-dist/
-build/
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# --- IDE Specific ---
+.vscode/
+.idea/

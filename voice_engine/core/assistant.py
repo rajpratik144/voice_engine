@@ -1,3 +1,8 @@
+# ==========================================
+# File: voice_engine/core/assistant.py
+# ==========================================
+
+
 import asyncio
 from .ear import Ear
 from .mouth import Mouth
